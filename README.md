@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vardhineedi1991
+- 👋 Hi, I’m @vardhineediLabs
 - 👀 I’m interested in coding, solving puzzles
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects where I can use my brain
